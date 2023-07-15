@@ -1,0 +1,5 @@
+{"Consumers":["Consumer 1","Consumer 2", "consumer 3"],
+"Date":["Current Month","Last Month","Last 3 Months", "Last 6 Months","Current Year"],
+"Response Time":["Below 100ms","100ms-200ms","200ms-300ms","300ms-400ms","400ms-500ms","Above 500ms"],
+"ASA/KSA Response Time":["Below 100ms","100ms-200ms","200ms-300ms","300ms-400ms","400ms-500ms","Above 500ms"]
+}

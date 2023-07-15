@@ -1,0 +1,14 @@
+.label{
+    display: block;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: black;
+    
+}
+.lab:hover{
+    display:block;
+    background-color:rgb(206, 206, 206);
+  font-size: 1rem;
+  color: black;
+  
+}

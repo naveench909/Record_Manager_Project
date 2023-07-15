@@ -1,0 +1,51 @@
+.toppane{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+.top-left-pane{
+    display: flex;
+    gap: 8px;
+}
+
+.SelectService{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.service-label{
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.search-bar{
+    width: 300px;
+    height: 35px;
+}
+
+.option-dropdown{
+    width: 200px;
+    height:40px;
+}
+
+.search-btn{
+    width: fit-content;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.top-right-pane{
+    display: flex;
+}
+
+.sorting-dropdown{
+    width: 200px;
+    height: 40px;
+}
